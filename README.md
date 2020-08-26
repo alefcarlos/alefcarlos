@@ -4,8 +4,8 @@
 
 ### Me encontre em...
 
-- 💼 https://www.linkedin.com/in/alefcarlos
-- 🌐 https://medium.com/@alef.carlos
+- 💼 <a href="https://linkedin.com/in/alefcarlos/" target="_blank">linkedin.com/in/alefcarlos</a>
+- 🌐 <a href="https://medium.com/@alef.carlos" target="_blank">medium.com/@alef.carlos</a>
 
 <!--
 **alefcarlos/alefcarlos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
